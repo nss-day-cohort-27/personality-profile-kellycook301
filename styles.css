@@ -4,8 +4,10 @@ h1 {
 
 .MLK, .Mandela, .Alanis, .Desmond {
     width: 30%;
+    
 }
 
-/* .Cards {
-    background-color: red;
-} */
+.Cards {
+    justify-content: space-around;
+    border: 1px black;
+}
